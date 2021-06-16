@@ -13,8 +13,3 @@ int main(){
 	
 ```
 
-```python
-
-	print("Here it is in python!")
-	
-```
